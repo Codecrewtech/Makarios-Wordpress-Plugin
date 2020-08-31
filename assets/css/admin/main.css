@@ -1,0 +1,166 @@
+.form-table {
+    background: #fafafa;
+    padding: 0;
+    margin: 20px 0 0 0;
+    border: 1px solid #fff;
+    box-shadow: 0 0 0 1px #ddd;
+    color: #555;
+    font-size: 13px;
+    overflow: hidden;
+}
+.form-table label {
+    color: #555;
+    font-size: 13px;
+    display: inline-block;
+    line-height: 28px;
+}
+.form-table h3 {
+    margin: 0;
+    padding: 10px 15px;
+    background: #fff;
+    font-size: 15px;
+    text-transform: uppercase;
+}
+.form-table td, .form-table th {
+    padding: 10px 15px 10px 15px;
+    border-bottom: 1px solid #ddd;
+    box-shadow: inset 0 -1px 0 0 #fff;
+}
+.form-table th.diageve-title {
+    padding: 0;
+    border-bottom: 1px solid #ddd;
+}
+/** Presets */
+ul.diageve-color-presets {
+    margin: 0;
+    padding: 2px;
+    background: #fff;
+    border: 1px solid #ddd;
+    list-style: none;
+    overflow: hidden;
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 2px;
+}
+ul.diageve-color-presets li {
+    float: left;
+    display: block;
+    margin: 0;
+    cursor: pointer;
+}
+ul.diageve-color-presets li div {
+    height: 18px;
+    width: 20px;
+}
+ul.diageve-color-presets li:hover div {
+    opacity: 0.5;
+}
+ul.diageve-color-presets li:active {
+    border-color: #f1f1f1;
+}
+/** Picker */
+.diageve-file-picker {
+    display: block;
+    background: #fff;
+    position: relative;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    overflow: hidden;
+    padding: 0;
+    height: 28px;
+    min-width: 200px;
+    max-width: 500px;
+}
+.diageve-file-picker input {
+    box-shadow: none;
+    border: none;
+    background: transparent;
+    margin: 0;
+    padding: 0 45px 0 5px;
+    font-size: 11px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    display: block !important;
+}
+.diageve-file-picker input:focus {
+    outline: none;
+    box-shadow: none;
+}
+.diageve-file-picker button {
+    position: absolute;
+    display: block;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    width: 40px;
+    height: 100%;
+    margin: 0 !important;
+    padding: 0;
+    border-radius: 0 !important;
+    border: 1px solid transparent !important;
+    border-left-color: #ddd !important;
+    box-shadow: none !important;
+}
+/** Insert Box */
+.diageve-insert-box {
+    display: block;
+    background: #fff;
+    position: relative;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    overflow: hidden;
+    padding: 0;
+    height: 28px;
+    width: 100%;
+}
+.diageve-insert-box input {
+    box-shadow: none;
+    border: none;
+    background: transparent;
+    margin: 0;
+    padding: 0 45px 0 5px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    display: block !important;
+}
+.diageve-insert-box input:focus {
+    outline: none;
+    box-shadow: none;
+}
+.diageve-insert-box button {
+    position: absolute;
+    display: block;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    width: 40px;
+    height: 100%;
+    margin: 0 !important;
+    padding: 0;
+    border-radius: 0 !important;
+    border: 1px solid transparent !important;
+    border-left-color: #ddd !important;
+    box-shadow: none !important;
+}
+input[type=number] {
+    width: 60px;
+}
+/** Whitelist */
+#whitelist {
+    width: 100%;
+    height: 200px;
+}
+textarea {
+    width: 100%;
+    resize: vertical;
+}

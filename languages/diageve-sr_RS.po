@@ -1,0 +1,512 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Diwave Age Verificator v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-07-04 07:19:48+0000\n"
+"Last-Translator: nikola <nikola.vworker@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Serbian\n"
+"X-Poedit-Country: SERBIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: inc/hooks.php:111
+#@ diageve
+msgid "Please enter a valid date of birth."
+msgstr "Molimo unesite datum Vašeg rođenja."
+
+#: inc/hooks.php:117
+#@ diageve
+msgid "You are too young for this content."
+msgstr " Previše ste mladi za ovaj sadržaj."
+
+#: inc/hooks.php:139
+#@ diageve
+msgid "8x8 Black"
+msgstr "8x8 Crno"
+
+#: inc/hooks.php:140
+#@ diageve
+msgid "8x8 White"
+msgstr "8x8 Belo"
+
+#: inc/hooks.php:141
+#@ diageve
+msgid "16x16 Black"
+msgstr "16x16 Crno"
+
+#: inc/hooks.php:142
+#@ diageve
+msgid "16x16 White"
+msgstr "16x16 Belo"
+
+#: inc/hooks.php:143
+#@ diageve
+msgid "32x32 Black"
+msgstr "32x32 Crno"
+
+#: inc/hooks.php:144
+#@ diageve
+msgid "32x32 White"
+msgstr "32x32 Belo"
+
+#: inc/hooks.php:166
+#@ diageve
+msgid "Turquoise"
+msgstr "Tirkiz"
+
+#: inc/hooks.php:167
+#@ diageve
+msgid "Green sea"
+msgstr "Zeleno more"
+
+#: inc/hooks.php:168
+#@ diageve
+msgid "Emerald"
+msgstr "Smaragd"
+
+#: inc/hooks.php:169
+#@ diageve
+msgid "Nephritis"
+msgstr "Nefritis"
+
+#: inc/hooks.php:170
+#@ diageve
+msgid "Sunflower"
+msgstr "Suncokret"
+
+#: inc/hooks.php:171
+#@ diageve
+msgid "Orange"
+msgstr "Narandža"
+
+#: inc/hooks.php:172
+#@ diageve
+msgid "Carrot"
+msgstr "Šargarepa"
+
+#: inc/hooks.php:173
+#@ diageve
+msgid "Pumpkin"
+msgstr "Bundeva"
+
+#: inc/hooks.php:174
+#@ diageve
+msgid "Alizarin"
+msgstr "Alizarin"
+
+#: inc/hooks.php:175
+#@ diageve
+msgid "Pomegranate"
+msgstr "Nar"
+
+#: inc/hooks.php:176
+#@ diageve
+msgid "Peter River"
+msgstr "Peter River"
+
+#: inc/hooks.php:177
+#@ diageve
+msgid "Belize Hole"
+msgstr "Belize Hole"
+
+#: inc/hooks.php:178
+#@ diageve
+msgid "Amethyst"
+msgstr "Ametist"
+
+#: inc/hooks.php:179
+#@ diageve
+msgid "Wisteria"
+msgstr "Visteria"
+
+#: inc/hooks.php:180
+#@ diageve
+msgid "Wet asphalt"
+msgstr "Mokar asfalt"
+
+#: inc/hooks.php:181
+#@ diageve
+msgid "Midnight blue"
+msgstr "Ponoćna plava"
+
+#: inc/hooks.php:182
+#@ diageve
+msgid "Concrete"
+msgstr "Beton"
+
+#: inc/hooks.php:183
+#@ diageve
+msgid "Asbestos"
+msgstr "Azbest"
+
+#: inc/hooks.php:184
+#@ diageve
+msgid "Clouds"
+msgstr "Oblaci"
+
+#: inc/hooks.php:185
+#@ diageve
+msgid "Silver"
+msgstr "Srebro"
+
+#: inc/hooks.php:231
+#: inc/hooks.php:235
+#@ diageve
+msgid "Configuration | Diwave Age Verificator"
+msgstr "Konfiguracija | Diwave Age Verificator"
+
+#: inc/hooks.php:232
+#@ diageve
+msgid "Age Verificator"
+msgstr "Age Verificator"
+
+#: inc/hooks.php:236
+#: templates/admin/settings.php:5
+#@ diageve
+msgid "Configuration"
+msgstr "Konfiguracija"
+
+#: inc/hooks.php:239
+#@ diageve
+msgid "Appearance | Diwave Age Verificator"
+msgstr "Izgled | Diwave Age Verificator"
+
+#: inc/hooks.php:240
+#: templates/admin/appearance.php:16
+#@ diageve
+msgid "Appearance"
+msgstr "Izgled"
+
+#: inc/hooks.php:253
+#: inc/hooks.php:272
+#@ diageve
+msgid "Settings could not be saved. Please try again."
+msgstr "Podešavanja nisu sačuvana. Pokušajte ponovo."
+
+#: inc/hooks.php:258
+#: inc/hooks.php:277
+#@ diageve
+msgid "Settings saved."
+msgstr "Podešavanja sačuvana."
+
+#: inc/hooks.php:288
+#@ diageve
+msgid "Item already exists in the list."
+msgstr "Stavka već postoji u listi."
+
+#: inc/hooks.php:289
+#@ diageve
+msgid "Are you sure you want to remove this item from the list?"
+msgstr "Da li ste sigurni da želite da izbrišete stavku iz liste?"
+
+#: inc/settings.php:14
+#@ diageve
+msgid "<i class=\"fa fa-lock diageve-icon\"></i><h3>Page is locked</h3>Please verify your age before accessing this page."
+msgstr "<i class=\"fa fa-lock diageve-icon\"></i><h3>Stranica je zaključana</h3>Za pregled stranice unesite Vaš datum rođenja."
+
+#: index.php:15
+#@ diageve
+msgid "You don't have permission for this action."
+msgstr "Nemate dozvolu za ovu akciju."
+
+#: templates/admin/appearance.php:6
+#@ diageve
+msgid "Repeat"
+msgstr "Ponavljaj"
+
+#: templates/admin/appearance.php:7
+#@ diageve
+msgid "Horizontally"
+msgstr "Horizontalno"
+
+#: templates/admin/appearance.php:8
+#@ diageve
+msgid "Vertically"
+msgstr "Vertikalno"
+
+#: templates/admin/appearance.php:9
+#@ diageve
+msgid "No repeat"
+msgstr "Ne ponavljaj"
+
+#: templates/admin/appearance.php:20
+#: templates/admin/settings.php:9
+#@ diageve
+msgid "Dismiss this notice."
+msgstr "Odbaci ovo obaveštenje."
+
+#: templates/admin/appearance.php:30
+#@ diageve
+msgid "Content"
+msgstr "Sadržaj"
+
+#: templates/admin/appearance.php:34
+#@ diageve
+msgid "Text"
+msgstr "Tekst"
+
+#: templates/admin/appearance.php:45
+#@ diageve
+msgid "Overall Text Color"
+msgstr "Opšta boja teksta"
+
+#: templates/admin/appearance.php:66
+#@ diageve
+msgid "Background"
+msgstr "Pozadina"
+
+#: templates/admin/appearance.php:70
+#@ diageve
+msgid "Background Image"
+msgstr "Slika pozadine"
+
+#: templates/admin/appearance.php:73
+#@ diageve
+msgid "Enter URL or browse local files..."
+msgstr "Unesite URL ili izaberite lokalni fajl..."
+
+#: templates/admin/appearance.php:74
+#@ diageve
+msgid "Browse files"
+msgstr "Izaberite fajl"
+
+#: templates/admin/appearance.php:79
+#@ diageve
+msgid "Background Repeat"
+msgstr "Ponavljanje pozadine"
+
+#: templates/admin/appearance.php:89
+#@ diageve
+msgid "Background Position"
+msgstr "Pozicija pozadine"
+
+#: templates/admin/appearance.php:91
+#@ diageve
+msgid "Left:"
+msgstr "Levo:"
+
+#: templates/admin/appearance.php:94
+#@ diageve
+msgid "Top:"
+msgstr "Gore:"
+
+#: templates/admin/appearance.php:97
+#@ diageve
+msgid "You can use either pixel (px) or percent (%) units. If no units are set, values will be treated as pixels."
+msgstr "Možete koristiti ili piksele (px) ili procente (%). Ukoliko nije određena mera, vrednosti će biti tretirane kao pikseli."
+
+#: templates/admin/appearance.php:101
+#@ diageve
+msgid "Background Color"
+msgstr "Boja pozadine"
+
+#: templates/admin/appearance.php:118
+#@ diageve
+msgid "Background Grid"
+msgstr "Rešetka pozadine"
+
+#: templates/admin/appearance.php:121
+#@ diageve
+msgid "None"
+msgstr "Ništa"
+
+#: templates/admin/appearance.php:127
+#@ diageve
+msgid "Opacity:"
+msgstr "Prozirnost:"
+
+#: templates/admin/appearance.php:128
+#@ diageve
+msgid "ex. 1.0"
+msgstr "npr. 1.0"
+
+#: templates/admin/appearance.php:138
+#@ diageve
+msgid "Custom CSS"
+msgstr "Korisnički CSS"
+
+#: templates/admin/appearance.php:142
+#@ diageve
+msgid "Code"
+msgstr "Kod"
+
+#: templates/admin/appearance.php:151
+#: templates/admin/settings.php:120
+#@ diageve
+msgid "Save Changes"
+msgstr "Sačuvaj izmene"
+
+#: templates/admin/settings.php:19
+#@ diageve
+msgid "General"
+msgstr "Opšte"
+
+#: templates/admin/settings.php:23
+#@ diageve
+msgid "Enable Age Verificator"
+msgstr "Uključi Age Verifikator"
+
+#: templates/admin/settings.php:25
+#: templates/admin/settings.php:77
+#@ diageve
+msgid "Enable"
+msgstr "Uključi"
+
+#: templates/admin/settings.php:27
+#, php-format
+#@ diageve
+msgid "Before enabling verificator, we suggest you customize verification page to your taste using <a href=\"%s\" target=\"_blank\">appearance page</a>."
+msgstr "Pre uključivanja verifikatora, predlažemo da podesite stranicu za verifikaciju po Vašem ukusu pomoću <a href=\"%s\" target=\"_blank\">stranice za izgled</a>."
+
+#: templates/admin/settings.php:31
+#@ diageve
+msgid "Required Age"
+msgstr "Potrebna starost"
+
+#: templates/admin/settings.php:32
+#@ diageve
+msgid "years old"
+msgstr "godina star"
+
+#: templates/admin/settings.php:33
+#@ diageve
+msgid "Minimal age required to view your website."
+msgstr "Minimalno doba starosti za pregled Vašeg sajta."
+
+#: templates/admin/settings.php:37
+#@ diageve
+msgid "Fallback URL"
+msgstr "Povratni URL"
+
+#: templates/admin/settings.php:38
+#: templates/admin/settings.php:86
+#, php-format
+#@ diageve
+msgid "eg. %s"
+msgstr "npr. %s"
+
+#: templates/admin/settings.php:39
+#@ diageve
+msgid "Please provide full URL to page where visitor will be redirected if his age does not meet requirements. <strong>Also make sure this URL is in Whitelist below if it's an URL on your domain.</strong>"
+msgstr "Molimo unesite pun URL stranice na koju će posetilac biti preusmeren ukoliko nije u odgovoarajućoj starosnoj dobi. <strong>Takođe se pobrinite da je URL dodat u Belu Listu ukoliko se radi o lokalnom URL-u sa Vašeg domena.</strong>"
+
+#: templates/admin/settings.php:43
+#@ diageve
+msgid "Cookie Lifetime"
+msgstr "Trajanje kolačića"
+
+#: templates/admin/settings.php:44
+#@ diageve
+msgid "days"
+msgstr "dana"
+
+#: templates/admin/settings.php:45
+#@ diageve
+msgid "How long to keep \"VERIFIED\" cookie in life?"
+msgstr "Koliko dugo se čuva \"VERIFIKOVAN\" kolačić?"
+
+#: templates/admin/settings.php:49
+#@ diageve
+msgid "Date Format"
+msgstr "Format datuma"
+
+#: templates/admin/settings.php:64
+#@ diageve
+msgid "Whitelist"
+msgstr "Bela Lista"
+
+#: templates/admin/settings.php:70
+#@ diageve
+msgid "Here you can make a list of pages where Age Verificator will be disabled."
+msgstr "Ovde možete napraviti listu stranica na kojima će Age Verifikator biti isključen."
+
+#: templates/admin/settings.php:75
+#@ diageve
+msgid "Invert whitelist"
+msgstr "Obrni belu listu"
+
+#: templates/admin/settings.php:79
+#@ diageve
+msgid "If inverted, Age Verificator will be disabled for all urls but the ones listed."
+msgstr "Ako je Bela Lista obrnuta, Age Verifikator će biti isključen za sve URL-ove osim za one u listi. Ovime Bela Lista postaje Crna Lista."
+
+#: templates/admin/settings.php:83
+#@ diageve
+msgid "Add New"
+msgstr "Dodaj novo"
+
+#: templates/admin/settings.php:87
+#@ diageve
+msgid "Add"
+msgstr "Dodaj"
+
+#: templates/admin/settings.php:90
+#@ diageve
+msgid "You can either use full URL or fragments, for example:"
+msgstr "Možete koristiti ili pun URL ili samo delove, na primer:"
+
+#: templates/admin/settings.php:92
+#@ diageve
+msgid "Applies only to exact URL."
+msgstr "Važi samo za isti URL."
+
+#: templates/admin/settings.php:93
+#, php-format
+#@ diageve
+msgid "Applies to all URLs that start with <strong>%s</strong>."
+msgstr "Važi za sve URL-ove koji počinju sa <strong>%s</strong>."
+
+#: templates/admin/settings.php:94
+#, php-format
+#@ diageve
+msgid "Applies to all URLs that end with <strong>%s</strong>."
+msgstr "Važi za sve URL-ove koji se završavaju sa <strong>%s</strong>."
+
+#: templates/admin/settings.php:95
+#, php-format
+#@ diageve
+msgid "Applies to all URLs that contain string <strong>%s</strong>."
+msgstr "Važi za sve URL-ove koji u sebi sadrže string <strong>%s</strong>."
+
+#: templates/admin/settings.php:103
+#: templates/admin/settings.php:113
+#@ diageve
+msgid "Double click on an item to remove it from the list."
+msgstr "Dupli klik na stavku da biste je izbrisali iz liste."
+
+#: templates/splash.php:16
+#: templates/splash.php:20
+#@ diageve
+msgctxt "Date field placeholder"
+msgid "DD"
+msgstr "DD"
+
+#: templates/splash.php:17
+#: templates/splash.php:19
+#@ diageve
+msgctxt "Date field placeholder"
+msgid "MM"
+msgstr "MM"
+
+#: templates/splash.php:22
+#@ diageve
+msgctxt "Date field placeholder"
+msgid "YYYY"
+msgstr "GGGG"
+
+#: templates/splash.php:25
+#@ diageve
+msgid "Verify"
+msgstr "Potvrdi"
+

@@ -1,0 +1,512 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Diwave Age Verificator v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-07-04 07:02:33+0000\n"
+"Last-Translator: nikola <nikola.vworker@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED KINGDOM\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: inc/hooks.php:111
+#@ diageve
+msgid "Please enter a valid date of birth."
+msgstr ""
+
+#: inc/hooks.php:117
+#@ diageve
+msgid "You are too young for this content."
+msgstr ""
+
+#: inc/hooks.php:139
+#@ diageve
+msgid "8x8 Black"
+msgstr ""
+
+#: inc/hooks.php:140
+#@ diageve
+msgid "8x8 White"
+msgstr ""
+
+#: inc/hooks.php:141
+#@ diageve
+msgid "16x16 Black"
+msgstr ""
+
+#: inc/hooks.php:142
+#@ diageve
+msgid "16x16 White"
+msgstr ""
+
+#: inc/hooks.php:143
+#@ diageve
+msgid "32x32 Black"
+msgstr ""
+
+#: inc/hooks.php:144
+#@ diageve
+msgid "32x32 White"
+msgstr ""
+
+#: inc/hooks.php:166
+#@ diageve
+msgid "Turquoise"
+msgstr ""
+
+#: inc/hooks.php:167
+#@ diageve
+msgid "Green sea"
+msgstr ""
+
+#: inc/hooks.php:168
+#@ diageve
+msgid "Emerald"
+msgstr ""
+
+#: inc/hooks.php:169
+#@ diageve
+msgid "Nephritis"
+msgstr ""
+
+#: inc/hooks.php:170
+#@ diageve
+msgid "Sunflower"
+msgstr ""
+
+#: inc/hooks.php:171
+#@ diageve
+msgid "Orange"
+msgstr ""
+
+#: inc/hooks.php:172
+#@ diageve
+msgid "Carrot"
+msgstr ""
+
+#: inc/hooks.php:173
+#@ diageve
+msgid "Pumpkin"
+msgstr ""
+
+#: inc/hooks.php:174
+#@ diageve
+msgid "Alizarin"
+msgstr ""
+
+#: inc/hooks.php:175
+#@ diageve
+msgid "Pomegranate"
+msgstr ""
+
+#: inc/hooks.php:176
+#@ diageve
+msgid "Peter River"
+msgstr ""
+
+#: inc/hooks.php:177
+#@ diageve
+msgid "Belize Hole"
+msgstr ""
+
+#: inc/hooks.php:178
+#@ diageve
+msgid "Amethyst"
+msgstr ""
+
+#: inc/hooks.php:179
+#@ diageve
+msgid "Wisteria"
+msgstr ""
+
+#: inc/hooks.php:180
+#@ diageve
+msgid "Wet asphalt"
+msgstr ""
+
+#: inc/hooks.php:181
+#@ diageve
+msgid "Midnight blue"
+msgstr ""
+
+#: inc/hooks.php:182
+#@ diageve
+msgid "Concrete"
+msgstr ""
+
+#: inc/hooks.php:183
+#@ diageve
+msgid "Asbestos"
+msgstr ""
+
+#: inc/hooks.php:184
+#@ diageve
+msgid "Clouds"
+msgstr ""
+
+#: inc/hooks.php:185
+#@ diageve
+msgid "Silver"
+msgstr ""
+
+#: inc/hooks.php:231
+#: inc/hooks.php:235
+#@ diageve
+msgid "Configuration | Diwave Age Verificator"
+msgstr ""
+
+#: inc/hooks.php:232
+#@ diageve
+msgid "Age Verificator"
+msgstr ""
+
+#: inc/hooks.php:236
+#: templates/admin/settings.php:5
+#@ diageve
+msgid "Configuration"
+msgstr ""
+
+#: inc/hooks.php:239
+#@ diageve
+msgid "Appearance | Diwave Age Verificator"
+msgstr ""
+
+#: inc/hooks.php:240
+#: templates/admin/appearance.php:16
+#@ diageve
+msgid "Appearance"
+msgstr ""
+
+#: inc/hooks.php:253
+#: inc/hooks.php:272
+#@ diageve
+msgid "Settings could not be saved. Please try again."
+msgstr ""
+
+#: inc/hooks.php:258
+#: inc/hooks.php:277
+#@ diageve
+msgid "Settings saved."
+msgstr ""
+
+#: inc/hooks.php:288
+#@ diageve
+msgid "Item already exists in the list."
+msgstr ""
+
+#: inc/hooks.php:289
+#@ diageve
+msgid "Are you sure you want to remove this item from the list?"
+msgstr ""
+
+#: inc/settings.php:14
+#@ diageve
+msgid "<i class=\"fa fa-lock diageve-icon\"></i><h3>Page is locked</h3>Please verify your age before accessing this page."
+msgstr ""
+
+#: index.php:15
+#@ diageve
+msgid "You don't have permission for this action."
+msgstr ""
+
+#: templates/admin/appearance.php:6
+#@ diageve
+msgid "Repeat"
+msgstr ""
+
+#: templates/admin/appearance.php:7
+#@ diageve
+msgid "Horizontally"
+msgstr ""
+
+#: templates/admin/appearance.php:8
+#@ diageve
+msgid "Vertically"
+msgstr ""
+
+#: templates/admin/appearance.php:9
+#@ diageve
+msgid "No repeat"
+msgstr ""
+
+#: templates/admin/appearance.php:20
+#: templates/admin/settings.php:9
+#@ diageve
+msgid "Dismiss this notice."
+msgstr ""
+
+#: templates/admin/appearance.php:30
+#@ diageve
+msgid "Content"
+msgstr ""
+
+#: templates/admin/appearance.php:34
+#@ diageve
+msgid "Text"
+msgstr ""
+
+#: templates/admin/appearance.php:45
+#@ diageve
+msgid "Overall Text Color"
+msgstr ""
+
+#: templates/admin/appearance.php:66
+#@ diageve
+msgid "Background"
+msgstr ""
+
+#: templates/admin/appearance.php:70
+#@ diageve
+msgid "Background Image"
+msgstr ""
+
+#: templates/admin/appearance.php:73
+#@ diageve
+msgid "Enter URL or browse local files..."
+msgstr ""
+
+#: templates/admin/appearance.php:74
+#@ diageve
+msgid "Browse files"
+msgstr ""
+
+#: templates/admin/appearance.php:79
+#@ diageve
+msgid "Background Repeat"
+msgstr ""
+
+#: templates/admin/appearance.php:89
+#@ diageve
+msgid "Background Position"
+msgstr ""
+
+#: templates/admin/appearance.php:91
+#@ diageve
+msgid "Left:"
+msgstr ""
+
+#: templates/admin/appearance.php:94
+#@ diageve
+msgid "Top:"
+msgstr ""
+
+#: templates/admin/appearance.php:97
+#@ diageve
+msgid "You can use either pixel (px) or percent (%) units. If no units are set, values will be treated as pixels."
+msgstr ""
+
+#: templates/admin/appearance.php:101
+#@ diageve
+msgid "Background Color"
+msgstr ""
+
+#: templates/admin/appearance.php:118
+#@ diageve
+msgid "Background Grid"
+msgstr ""
+
+#: templates/admin/appearance.php:121
+#@ diageve
+msgid "None"
+msgstr ""
+
+#: templates/admin/appearance.php:127
+#@ diageve
+msgid "Opacity:"
+msgstr ""
+
+#: templates/admin/appearance.php:128
+#@ diageve
+msgid "ex. 1.0"
+msgstr ""
+
+#: templates/admin/appearance.php:138
+#@ diageve
+msgid "Custom CSS"
+msgstr ""
+
+#: templates/admin/appearance.php:142
+#@ diageve
+msgid "Code"
+msgstr ""
+
+#: templates/admin/appearance.php:151
+#: templates/admin/settings.php:120
+#@ diageve
+msgid "Save Changes"
+msgstr ""
+
+#: templates/admin/settings.php:19
+#@ diageve
+msgid "General"
+msgstr ""
+
+#: templates/admin/settings.php:23
+#@ diageve
+msgid "Enable Age Verificator"
+msgstr ""
+
+#: templates/admin/settings.php:25
+#: templates/admin/settings.php:77
+#@ diageve
+msgid "Enable"
+msgstr ""
+
+#: templates/admin/settings.php:27
+#, php-format
+#@ diageve
+msgid "Before enabling verificator, we suggest you customize verification page to your taste using <a href=\"%s\" target=\"_blank\">appearance page</a>."
+msgstr ""
+
+#: templates/admin/settings.php:31
+#@ diageve
+msgid "Required Age"
+msgstr ""
+
+#: templates/admin/settings.php:32
+#@ diageve
+msgid "years old"
+msgstr ""
+
+#: templates/admin/settings.php:33
+#@ diageve
+msgid "Minimal age required to view your website."
+msgstr ""
+
+#: templates/admin/settings.php:37
+#@ diageve
+msgid "Fallback URL"
+msgstr ""
+
+#: templates/admin/settings.php:38
+#: templates/admin/settings.php:86
+#, php-format
+#@ diageve
+msgid "eg. %s"
+msgstr ""
+
+#: templates/admin/settings.php:39
+#@ diageve
+msgid "Please provide full URL to page where visitor will be redirected if his age does not meet requirements. <strong>Also make sure this URL is in Whitelist below if it's an URL on your domain.</strong>"
+msgstr ""
+
+#: templates/admin/settings.php:43
+#@ diageve
+msgid "Cookie Lifetime"
+msgstr ""
+
+#: templates/admin/settings.php:44
+#@ diageve
+msgid "days"
+msgstr ""
+
+#: templates/admin/settings.php:45
+#@ diageve
+msgid "How long to keep \"VERIFIED\" cookie in life?"
+msgstr ""
+
+#: templates/admin/settings.php:49
+#@ diageve
+msgid "Date Format"
+msgstr ""
+
+#: templates/admin/settings.php:64
+#@ diageve
+msgid "Whitelist"
+msgstr ""
+
+#: templates/admin/settings.php:70
+#@ diageve
+msgid "Here you can make a list of pages where Age Verificator will be disabled."
+msgstr ""
+
+#: templates/admin/settings.php:75
+#@ diageve
+msgid "Invert whitelist"
+msgstr ""
+
+#: templates/admin/settings.php:79
+#@ diageve
+msgid "If inverted, Age Verificator will be disabled for all urls but the ones listed."
+msgstr ""
+
+#: templates/admin/settings.php:83
+#@ diageve
+msgid "Add New"
+msgstr ""
+
+#: templates/admin/settings.php:87
+#@ diageve
+msgid "Add"
+msgstr ""
+
+#: templates/admin/settings.php:90
+#@ diageve
+msgid "You can either use full URL or fragments, for example:"
+msgstr ""
+
+#: templates/admin/settings.php:92
+#@ diageve
+msgid "Applies only to exact URL."
+msgstr ""
+
+#: templates/admin/settings.php:93
+#, php-format
+#@ diageve
+msgid "Applies to all URLs that start with <strong>%s</strong>."
+msgstr ""
+
+#: templates/admin/settings.php:94
+#, php-format
+#@ diageve
+msgid "Applies to all URLs that end with <strong>%s</strong>."
+msgstr ""
+
+#: templates/admin/settings.php:95
+#, php-format
+#@ diageve
+msgid "Applies to all URLs that contain string <strong>%s</strong>."
+msgstr ""
+
+#: templates/admin/settings.php:103
+#: templates/admin/settings.php:113
+#@ diageve
+msgid "Double click on an item to remove it from the list."
+msgstr ""
+
+#: templates/splash.php:16
+#: templates/splash.php:20
+#@ diageve
+msgctxt "Date field placeholder"
+msgid "DD"
+msgstr ""
+
+#: templates/splash.php:17
+#: templates/splash.php:19
+#@ diageve
+msgctxt "Date field placeholder"
+msgid "MM"
+msgstr ""
+
+#: templates/splash.php:22
+#@ diageve
+msgctxt "Date field placeholder"
+msgid "YYYY"
+msgstr ""
+
+#: templates/splash.php:25
+#@ diageve
+msgid "Verify"
+msgstr ""
+
